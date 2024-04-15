@@ -2,7 +2,7 @@
 
 Creating a webapp of basic pinterest clone using Nodejs and MongoDB
 
-## Packages used--->
+## Packages used
   •	express<br>
   •	express-session<br>
   •	passport<br>
